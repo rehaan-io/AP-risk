@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg
+greenlet
+azure-ai-documentintelligence
+python-multipart
+pydantic-settings
+python-dotenv
+alembic
+
+aiohttp
